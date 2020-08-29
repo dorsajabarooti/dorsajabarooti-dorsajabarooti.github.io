@@ -393,7 +393,7 @@
             <span>
                 <i class="fa fa-globe"></i>
             </span>
-            <label>شبکه اجتماعی</label>
+            <label>ارزش یابی</label>
         </div>
         <div class="property-item_body">
             <div class="item-row w0">
@@ -402,9 +402,9 @@
                             <span>
                                 <label>
                                     <i class="fab fa-instagram"></i>
-                                    <i>Instagram</i>
-                                </label>
-                                    <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://instagram.com/dorii_mqdm" target="_blank">dorii_mqdm</a></label>
+                                    <i>رزومه</i>
+                       </label>
+            <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://github.com/dorsajabarooti/dorsajabarooti.github.io/assessment/DJB_CV_CheckList_AR_3983.pdf.pdf" target="_blank">resume</a></label>
 
                             </span>
                         </li>
