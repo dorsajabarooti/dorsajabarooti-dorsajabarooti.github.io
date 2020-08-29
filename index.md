@@ -404,7 +404,7 @@
                                     <i class="fab fa-instagram"></i>
                                     <i>رزومه</i>
                        </label>
-            <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://github.com/dorsajabarooti/dorsajabarooti.github.io/blob/gh-pages/assessment/DJ_CV_CheckList_AR_3983.pdf" target="_blank">resume</a></label>
+            <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://github.com/dorsajabarooti/dorsajabarooti.github.io/assessment/DJ_CV_CheckList_AR_3983.pdf" target="_blank">resume</a></label>
 
                             </span>
                         </li>
