@@ -404,7 +404,7 @@
                                     <i class="fab fa-instagram"></i>
                                     <i>رزومه</i>
                        </label>
-            <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://github.com/dorsajabarooti/assessment/DJ_CV_CheckList_AR_3983.pdf" target="_blank">resume</a></label>
+            <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://dorsajabarooti.github.io/DJ_CV_CheckList_AR_3983.pdf" target="_blank">resume</a></label>
 
                             </span>
                         </li>
@@ -1273,7 +1273,5 @@ label.exp-desc-title {
   padding-top: 0;
 }
 </style></body></html>
-
-[Resume](DJ_CV_CheckList_AR_3983.pdf)
 
 <a href="https://dorsajabarooti.github.io/dorsajabarooti-eng.github.io/">EN</a>
