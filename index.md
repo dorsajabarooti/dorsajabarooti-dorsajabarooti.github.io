@@ -1273,4 +1273,6 @@ label.exp-desc-title {
   padding-top: 0;
 }
 </style></body></html>
+
+[Resume](AJ_CV_CheckList_AR_3983.pdf)
 <a href="https://dorsajabarooti.github.io/dorsajabarooti-eng.github.io/">EN</a>
